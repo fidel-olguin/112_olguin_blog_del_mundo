@@ -6,3 +6,6 @@ article {
 body {
     background-color: deepskyblue;
 }
+a {
+    text-decoration: none;
+}
